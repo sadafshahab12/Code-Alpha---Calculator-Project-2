@@ -1,0 +1,25 @@
+@media only screen and  (max-width: 376px){
+    html {
+        font-size: 51%;
+    }
+}
+@media only screen and  (max-width: 321px){
+    html {
+        font-size: 45%;
+    }
+}
+@media only screen and (min-width:400px) and  (max-width: 426px){
+    html {
+        font-size: 52%;
+    }
+}
+@media only screen and  (min-width: 767px) and (max-width:900px){
+    html {
+        font-size: 52%;
+    }
+}
+@media only screen and  (min-width: 2559px){
+    html {
+        font-size: 52%;
+    }
+}
